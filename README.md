@@ -50,3 +50,4 @@ Applications:
 Driver Monitoring: Detects drowsy drivers for road safety.
 Security & Surveillance: Identifies individuals and monitors activity.
 Healthcare & Elderly Care: Monitors sleep patterns for well-being.
+
