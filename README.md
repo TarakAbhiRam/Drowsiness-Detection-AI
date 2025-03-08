@@ -4,18 +4,24 @@ Technologies: Python, CNN, Haar Cascades, OpenCV
 Overview
 This project implements an AI-powered monitoring system that detects multiple individuals in images and videos, classifies their drowsiness state, and predicts the ages of sleeping subjects. The system integrates deep learning, computer vision, and real-time processing for accurate and efficient performance.
 
-Features
+Features:
+
 ✅ Parallel Model Development:
 
 Trained a CNN from scratch on the UTK dataset to predict age using regression.
 Implemented Haar Cascades for real-time face detection.
+
 ✅ Post-Processing Enhancements:
 
 Applied a running median filter to improve age prediction accuracy and stability.
+
+
 ✅ System Integration:
 
 Combined CNN age predictions with face detection to enable multi-person monitoring.
 Provided real-time input previews for instant visual feedback.
+
+
 
 Usage
 Install Dependencies Manually:
