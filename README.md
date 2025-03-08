@@ -35,12 +35,18 @@ pip install torch torchvision torchaudio opencv-python numpy matplotlib
 Run the Monitoring System:
 
 Open and execute main.ipynb to:
-*Capture frames from an image or video stream.
+*Capture frames from an image or video stream
+
 *Detect faces using Haar Cascades.
+
 *Predict age using the pre-trained CNN model (.pth file).
+
 *Classify drowsiness state.
+
 *Apply running median filtering for stable age predictions.
+
 *Display real-time monitoring results with input previews.
+
 *Retrain the Age Prediction Model (Optional, if needed):
 
 Run age_predictor_cnn.ipynb to train a new CNN model on the UTK dataset.
